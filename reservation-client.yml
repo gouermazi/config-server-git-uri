@@ -1,0 +1,7 @@
+message: hello tab nice to see you again====2
+management: 
+ security: 
+  enabled: false
+zuul: 
+ routes: 
+  reservation-service: /rs/**
